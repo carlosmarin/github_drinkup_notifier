@@ -1,0 +1,14 @@
+[notify]
+last_entry_date_published = 2013-11-08T11:13:01-08:00
+last_entry_id = tag:github.com,2008:Post/1686
+
+[email]
+from = me@example.me
+to = you@example.com
+subject = GitHub Drinkup coming soon to:
+
+[smtp]
+server = smtp.example.com
+port = 587
+username =
+password =
