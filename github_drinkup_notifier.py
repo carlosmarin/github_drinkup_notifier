@@ -30,7 +30,7 @@ def notify(atom_entry, city):
 def check_feed(args):
     """
     Usage sample:
-    github_drinkup_notifier.py --feed https://github.com/blog/drinkup.atom --city Austin --date 2013-11-08 --numdays 5
+    github_drinkup_notifier.py --feed https://github.com/blog/drinkup.atom --city Austin
     """
 
     last_entry_date_published = config.get('notify', 'last_entry_date_published')
